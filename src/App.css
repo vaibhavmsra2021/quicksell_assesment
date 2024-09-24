@@ -1,0 +1,12 @@
+.App {
+  margin: 2%;
+
+}
+
+.appclassgroup{
+  width: fit-content;
+  height: fit-content;
+  background-color: whitesmoke;
+  border-radius: 10px;
+  padding: 0.5%;
+}
